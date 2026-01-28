@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897864-cc5a6b9a-9d62-4c8e-b4d7-7d5d4fa2b62d.gif" width="100%" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 </p>
+
+
 
 <h1 align="center">Hi 👋, I'm Mayank Taneja</h1>
 <h3 align="center">CSE Undergraduate at Delhi Technological University | Full-Stack Developer | AI/ML Enthusiast</h3>
@@ -100,7 +102,8 @@ AI-driven interview evaluation system with LLM-based question relevance and feed
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayankTaneja-fnn&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankTaneja-fnn&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=MayankTaneja-fnn&theme=tokyonight" height="165"/>
+
 </p>
 
 ---
@@ -109,11 +112,18 @@ AI-driven interview evaluation system with LLM-based question relevance and feed
 ⭐ Always building impactful tech and Learning...
 </p>
 
+<div align="center">
 
-🎮 **Fun Fact Quest Unlocked**
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦  
+🟦 🎮 **Fun Fact Quest Unlocked** 🟦  
+🟦────────────────────────🟦  
+🟦 🤖 I asked an AI to debug my code… 🟦  
+🟦 Now **both of us are confused** ❌❌ 🟦  
+🟦────────────────────────🟦  
+🟦 🏆 **Final Boss:** Understanding the bug 🟦  
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦  
 
-🤖 Asked an AI to debug my code...  
-Now **both of us are confused** ❌❌  
+</div>
 
-Final Boss: **Understanding the bug** 🏆
+
 
