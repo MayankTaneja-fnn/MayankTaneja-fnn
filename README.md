@@ -102,7 +102,7 @@ AI-driven interview evaluation system with LLM-based question relevance and feed
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayankTaneja-fnn&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=MayankTaneja-fnn&theme=tokyonight" height="165"/>
+
 
 </p>
 
