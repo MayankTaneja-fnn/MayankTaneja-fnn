@@ -72,13 +72,13 @@ I build scalable web & mobile applications and intelligent systems that solve re
 
 ## 🚀 Featured Projects
 
-### 🔹 Sahaayak – AI-Powered Emergency Response App
+### 🔹 Sahayak – AI-Powered Emergency Response App
 Real-time emergency response system with AI-based alert classification and automated authority notification.  
 **Tech:** React Native, Express.js, Firebase, AI/ML
 
 ---
 
-### 🔹 DTU Attendance & Student Portal
+### 🔹 EO Portal
 Full-stack attendance and student management platform for DTU students and faculty.  
 **Tech:** React.js, Node.js, MongoDB, Tailwind CSS
 
